@@ -9,12 +9,15 @@ Results can be viewed in the `` person_detection_results `` folder and the `` pp
 For the combined working and inference, kindly check the image results in the ``inference_results`` folder.
 
 The ``best.pt`` models for both categories are located in:
+
  Person: ``person_detection_results/weights``
+
  PPE: ``ppe_detection_results/weights``
 
 A detailed PDF report is also available for the making and working of the project, titled ``Report_YOLOv8OBJ.pdf``.
 
 Execution of files in order:
+
     1. ``pascalVOC_to_yolo.py``
     2. ``split_data.py``
     3. ``train_person_model.py`` 
