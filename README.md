@@ -18,17 +18,17 @@ A detailed PDF report is also available for the making and working of the projec
 
 Execution of files in order:
 
-    1. ``pascalVOC_to_yolo.py``
-    2. ``split_data.py``
-    3. ``train_person_model.py`` 
-    4. ``crop_person.py``
-    5. ``adjust_ppe_annotations.py``
-    6. ``split_data.py``
-    7. ``train_ppe_model.py``
-    8. ``inference.py``
+    1. pascalVOC_to_yolo.py
+    2. split_data.py
+    3. train_person_model.py
+    4. crop_person.py
+    5. adjust_ppe_annotations.py
+    6. split_data.py
+    7. train_ppe_model.py
+    8. inference.py
 
 
-To run inference: 
+To run inference directly: 
 
 ```bash
 $ python inference.py   
