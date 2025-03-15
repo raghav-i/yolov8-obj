@@ -1,0 +1,4 @@
+train: /home/raghav/Documents/syook/datasets/cropped_ppe_dataset/train/images
+val: /home/raghav/Documents/syook/datasets/cropped_ppe_dataset/val/images
+nc: 9 
+names: ["safety-harness", "hard-hat", "gloves", "glasses", "mask", "boots" , "vest", "ppe-suit", "ear-protector"]

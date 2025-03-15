@@ -1,0 +1,5 @@
+
+train: /home/raghav/Documents/syook/datasets/train/images 
+val: /home/raghav/Documents/syook/datasets/val/images   
+nc: 1                                                    
+names: ['person']
